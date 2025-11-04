@@ -402,6 +402,5 @@ MIT
 
 ## Support
 
-- **Docs**: [docs.hypernodesolana.org](https://docs.hypernodesolana.org)
 - **GitHub**: [github.com/Hypernode-sol/hypernode-sdk-python](https://github.com/Hypernode-sol/hypernode-sdk-python)
 - **Email**: contact@hypernodesolana.org
