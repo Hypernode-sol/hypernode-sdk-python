@@ -1,0 +1,20 @@
+[
+  "tests/test_smoke.py::test_client_validation_empty_url",
+  "tests/test_smoke.py::test_create_client_basic",
+  "tests/test_smoke.py::test_create_client_helper",
+  "tests/test_smoke.py::test_create_client_with_api_key",
+  "tests/test_smoke.py::test_deployment_config_creation",
+  "tests/test_smoke.py::test_exceptions_importable",
+  "tests/test_smoke.py::test_generation_request_creation",
+  "tests/test_smoke.py::test_import_all_exports",
+  "tests/test_smoke.py::test_import_sdk",
+  "tests/test_smoke.py::test_retry_async_decorator",
+  "tests/test_smoke.py::test_retry_decorator_non_retryable_error",
+  "tests/test_smoke.py::test_retry_decorator_permanent_failure",
+  "tests/test_smoke.py::test_retry_decorator_success",
+  "tests/test_smoke.py::test_retry_decorator_transient_failure",
+  "tests/test_smoke.py::test_retry_logic_calculate_backoff",
+  "tests/test_smoke.py::test_retry_timing",
+  "tests/test_smoke.py::test_sdk_version",
+  "tests/test_smoke.py::test_solana_client_accessible"
+]
